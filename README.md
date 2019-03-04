@@ -1,2 +1,2 @@
-# Curso-Laravel-RLSystem
+# Laravel
 Curso básico do framework Laravel
